@@ -1,4 +1,4 @@
-@extends('layouts.master')
+
 @section('extra-stylesheet')
     <link rel="stylesheet" type="text/css" href="/css/nav.css">
 @endsection

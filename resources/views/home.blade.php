@@ -2,8 +2,9 @@
 @section('title')
     Home
 @endsection
-@include('layouts.header')
+
 @section('content')
+@include('layouts.header')
 @include('layouts.banner')
 @include('layouts.services')
 @include('layouts.contact')

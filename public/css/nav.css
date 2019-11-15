@@ -130,7 +130,7 @@ nav{
 }
 
 /* banner css */
-#slider-animation{height:80vh;}
+#slider-animation{min-height:100%;}
 .heading-box h2{ width:100%; color: red; }
 h2, p{color:#fff;}
 .carousel-item img{width:100%;}
