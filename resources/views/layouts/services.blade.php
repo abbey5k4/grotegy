@@ -37,16 +37,16 @@
              <!-- Single Service -->
              <div class="single-service">
                 <i class="fa fa-mobile"></i>
-                <h4>Responsive Design</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry typesetting industry </p>
+                <h4>Partnership</h4>
+                <p>We have the roadmap, required partnerships to navigate your survival and plot your growth trajectory. </p>
              </div>
           </div>
           <div class="col-lg-6 col-md-6">
              <!-- Single Service -->
              <div class="single-service">
                 <i class="fa fa-magic"></i>
-                <h4>Graphic Design</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry typesetting industry </p>
+                <h4>GroLegal</h4>
+                <p>From documentation, to legal representation, we have the required expertise in holding your hands through every step.</p>
              </div>
           </div>
           
