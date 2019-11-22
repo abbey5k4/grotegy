@@ -4,9 +4,7 @@
          <div class="section-title">
             <h4>Who are we</h4>
             <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-      Launch demo modal
-    </button>
+
     
     <!-- Modal -->
     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -55,7 +53,7 @@
                         From efficiency to sustainability, our goal is to help you always to be clear, thoughtful, and focused on outcomes. In short, we want to make getting to results faster and easier for everyone.. one idea at a time.
                      
                   </p>
-               <button type="button" class="btn btn-outline-success btn-rounded waves-effect" style="border-radius: 20px;"> <a href="{{ route('aboutPage') }}">Read more<i class="fas fa-long-arrow-alt-right"></i></a></button>
+               <button type="button" class="btn btn-outline-success btn-rounded waves-effect" style="border-radius: 20px;" data-toggle="modal" data-target="#exampleModalCenter"> Read more<i class="fas fa-long-arrow-alt-right"></i></button>
                </div>
                
             </div>

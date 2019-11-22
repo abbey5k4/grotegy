@@ -75,7 +75,7 @@ nav{
 	}
 	.modal{
 		width: 50%;
-		margin: auto;
+		margin: auto 50px;
 	}
 	.nav-link{
 		z-index: 1000;
