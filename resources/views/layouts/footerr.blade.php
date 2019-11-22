@@ -111,7 +111,7 @@
       
         <!-- Copyright -->
         <div class="footer-copyright text-center text-black-50 py-3">© 2019 &nbsp; &nbsp; &nbsp;
-          <a class="white-text " href="">GroTegy Ltd. All rights reserved</a>
+          <a class="white-text ">GroTegy Ltd. All rights reserved</a>
         </div>
         <!-- Copyright -->
       
