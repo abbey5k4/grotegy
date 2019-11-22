@@ -17,3 +17,7 @@ Route::get('/', function () {
 Route::get('/portfolio', function () {
     return view('portfolio');
 })->name('portfolio');
+
+Route::get('/about', function () {
+    return view('aboutPage');
+})->name('aboutPage');
