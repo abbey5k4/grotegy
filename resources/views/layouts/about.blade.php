@@ -35,7 +35,7 @@
          </div>
          <div class="container-fluid">
             <div class="row mt-5">
-                  <div class="col-md-6 wow slideInRight"  data-wow-duration="2s">
+                  <div class="col-md-6 wow slideInRight" data-wow-duration="2s">
                         <!-- Card -->
                         <div class="card card-image" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
       
