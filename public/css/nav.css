@@ -73,6 +73,10 @@ nav{
 	body{
 		/* overflow-x: hidden; */
 	}
+	.modal{
+		width: 66%;
+		margin: auto;
+	}
 	.nav-link{
 		z-index: 1000;
 		position: absolute;

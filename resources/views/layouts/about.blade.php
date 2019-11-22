@@ -19,11 +19,11 @@
             </button>
           </div>
           <div class="modal-body">
-            ...
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit eligendi reprehenderit, laudantium ipsum iste eius autem, at cumque inventore tenetur, sint architecto delectus a ipsam error maiores tempora nulla maxime!
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
+            
           </div>
         </div>
       </div>
