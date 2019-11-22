@@ -25,7 +25,7 @@
                       </div>
                       <div class="col-xl-12">
                          <textarea placeholder="message" cols="30" rows="10"></textarea>
-                         <input type="submit" value="send message">
+                         <input type="submit" value="send message" style="background: #21d192; color: #fff;">
                       </div>
                    </div>
                 </form>
