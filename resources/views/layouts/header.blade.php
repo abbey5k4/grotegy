@@ -8,7 +8,7 @@
     </div>
     <ul class="nav-link">
         <li>
-            <a href="#">Portfolio</a>
+        <a href="{{ route('portfolio') }}">Portfolio</a>
         </li>
         <li>
             <a href="#">Blog</a>
