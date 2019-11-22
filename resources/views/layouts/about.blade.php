@@ -3,7 +3,53 @@
       <div class="text-center">
          <div class="section-title">
             <h4>Who are we</h4>
-            
+            <!-- Central Modal Danger Demo-->
+<div class="modal fade right" id="ModalDanger" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+aria-hidden="t`rue">
+<div class="modal-dialog modal-notify modal-danger modal-side modal-top-right" role="document">
+  <!--Content-->
+  <div class="modal-content">
+    <!--Header-->
+    <div class="modal-header">
+      <p class="heading">Modal Danger</p>
+
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true" class="white-text">&times;</span>
+      </button>
+    </div>
+
+    <!--Body-->
+    <div class="modal-body">
+
+      <div class="row">
+        <div class="col-3">
+          <p></p>
+          <p class="text-center"><i class="fas fa-shopping-cart fa-4x"></i></p>
+        </div>
+
+        <div class="col-9">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, molestiae provident temporibus
+            sunt earum.</p>
+          <h2><span class="badge">v52gs1</span></h2>
+        </div>
+      </div>
+    </div>
+
+    <!--Footer-->
+    <div class="modal-footer justify-content-center">
+      <a type="button" class="btn btn-danger">Get it now <i class="far fa-gem ml-1 white-text"></i></a>
+      <a type="button" class="btn btn-outline-danger waves-effect" data-dismiss="modal">No, thanks</a>
+    </div>
+  </div>
+  <!--/.Content-->
+</div>
+</div>
+<!-- Central Modal Danger Demo-->
+
+<div class="text-center">
+<a href="" class="btn btn-default btn-rounded" data-toggle="modal" data-target="#ModalDanger">Launch Modal
+  Danger <i class="far fa-eye ml-1"></i></a>
+</div>
          </div>
          <div class="container-fluid">
             <div class="row mt-5">
