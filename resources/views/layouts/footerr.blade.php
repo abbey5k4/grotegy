@@ -58,9 +58,10 @@
               <!-- Content -->
               <h6 class="text-uppercase font-weight-bold">GROTEGY</h6>
               <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-              <p  style="color: #000;">Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-                consectetur
-                adipisicing elit.</p>
+              <p  style="color: #000;">
+                    We help businesses discover the voice behind their brand. One idea at a time
+              </p>
+              <p class="text-center">Build <span>.</span> Grow<span>.</span> Scale </p>
       
             </div>
             <!-- Grid column -->
