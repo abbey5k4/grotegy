@@ -74,8 +74,8 @@ nav{
 		/* overflow-x: hidden; */
 	}
 	.modal{
-		width: 50%;
-		margin: 100px 50px;
+		width: 60%;
+		margin: 100px 20px;
 	}
 	.nav-link{
 		z-index: 1000;
