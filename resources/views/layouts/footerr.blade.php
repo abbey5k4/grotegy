@@ -61,7 +61,7 @@
               <p  style="color: #000;">
                     We help businesses discover the voice behind their brand. One idea at a time
               </p>
-              <p class="text-center">Build <span>.</span> Grow<span>.</span> Scale </p>
+              <p class="black-text text-center">Build <span>.</span> Grow<span>.</span> Scale </p>
       
             </div>
             <!-- Grid column -->
