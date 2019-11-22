@@ -65,27 +65,6 @@
             </div>
             <!-- Grid column -->
       
-            <!-- Grid column -->
-            {{-- <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-      
-              <!-- Links -->
-              <h6 class="text-uppercase font-weight-bold">Products</h6>
-              <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-              <p>
-                <a class="dark-grey-text" href="#!">MDBootstrap</a>
-              </p>
-              <p>
-                <a class="dark-grey-text" href="#!">MDWordPress</a>
-              </p>
-              <p>
-                <a class="dark-grey-text" href="#!">BrandFlow</a>
-              </p>
-              <p>
-                <a class="dark-grey-text" href="#!">Bootstrap Angular</a>
-              </p>
-      
-            </div> --}}
-            <!-- Grid column -->
       
             <!-- Grid column -->
             <div class="col-md-4 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -132,7 +111,7 @@
       
         <!-- Copyright -->
         <div class="footer-copyright text-center text-black-50 py-3">© 2019 &nbsp; &nbsp; &nbsp;
-          <a class="dark-grey-text" href="">GroTegy</a>
+          <a class="white-text " href="">GroTegy</a>
         </div>
         <!-- Copyright -->
       
