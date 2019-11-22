@@ -94,7 +94,7 @@
               <p  style="color: #000;">
                 <i class="fas fa-home mr-3"  style="color: #000;"></i> New York, NY 10012, US</p>
               <p  style="color: #000;">
-                <i class="fas fa-envelope mr-3"></i> info@example.com</p>
+                <i class="fas fa-envelope mr-3"></i>curator@grotegy.com</p>
               <p  style="color: #000;">
                 <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
               <p  style="color: #000;">
