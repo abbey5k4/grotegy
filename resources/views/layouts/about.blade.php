@@ -35,7 +35,7 @@
          </div>
          <div class="container-fluid">
             <div class="row mt-5">
-                  <div class="col-md-6">
+                  <div class="col-md-6 wow slideInRight"  data-wow-duration="2s">
                         <!-- Card -->
                         <div class="card card-image" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
       
@@ -52,7 +52,7 @@
                         </div>
                         <!-- Card -->
                      </div>
-               <div class="col-md-6">
+               <div class="col-md-6 wow slideInDown" data-wow-duration="2s">
                   <p class="text-center" style="margin-top: 15px; color: black;">
                         Grotegy is a growth, strategy, legal, compliance and business consulting firm that is defining the way African startups and businesses plan and execute their growth strategies. So Whether you’re looking to discover your brand or develop a viable growth plan underpinned by sound sales strategy, we will help your African business build, grow and scale globally faster and more efficiently than you can on your own. 
                         
