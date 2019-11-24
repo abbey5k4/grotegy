@@ -1,4 +1,4 @@
-<section  style="margin-top: 8.5vh;">
+<section class= style="margin-top: 8.5vh;">
     <div id="slider-animation" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->

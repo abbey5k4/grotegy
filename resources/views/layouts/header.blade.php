@@ -3,7 +3,7 @@
     <link rel="stylesheet" type="text/css" href="/css/nav.css">
 @endsection
 <!--Main Navigation-->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark " style="background-color: #fff;">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark " style="background-color: #fff; border-bottom: 1px solid green;">
     <a class="navbar-brand" href="#" style="color: #000;"><strong>Navbar</strong></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: green; color: blue;">
         <span class="navbar-toggler-icon"></span>

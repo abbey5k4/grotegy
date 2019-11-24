@@ -11,6 +11,11 @@ body{
 	margin: 0%;
 	box-sizing: border-box;
 }
+ul>li.active{
+	background-color: green;
+	color: white;
+}
+
 nav{
 	display: flex;
 	justify-content: space-around;
@@ -62,15 +67,13 @@ nav{
 	transition: all 0.3s ease;
 }
 @media screen and (max-width: 1024px){
-	/* .nav-link{
-		display: flex;
-		width: 100vw;
-		justify-content: space-around;
-	} */
+	
 }
 
 @media screen and (max-width: 768px){
-	
+	section.banner-div{
+		margin-top:8.5vh !important;
+	}
 	.modal{
 		width: 60%;
 		margin: 100px 20px;
