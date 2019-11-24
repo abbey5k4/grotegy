@@ -7,8 +7,8 @@
              </div>
           </div>
        </div>
-       <div class="row">
-          <div class="col-lg-6 col-md-6">
+       <div class="row"> 
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
              <!-- Single Service -->
              <div class="single-service">
                 <i class="fa fa-laptop"></i>
@@ -25,7 +25,7 @@
                   </div> --}}
                </div>
           </div>
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
              <!-- Single Service -->
              <div class="single-service">
                 <i class="fa fa-gears"></i>  
@@ -33,7 +33,7 @@
                 <p><blockquote>Setting business goals without plan is a wish</blockquote> Standing is noot an option. We make it easy to engage your target customers to generate revenue and achieve your goals</p>
              </div>
           </div>
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
              <!-- Single Service -->
              <div class="single-service">
                 <i class="fa fa-mobile"></i>

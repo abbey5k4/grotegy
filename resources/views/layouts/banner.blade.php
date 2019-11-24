@@ -1,4 +1,4 @@
-<section>
+<section  style="margin-top: 8.5vh;">
     <div id="slider-animation" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->
@@ -6,11 +6,11 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/growth.jpeg" alt="slider 1">
+      <img src="images/gro2.jpg" alt="slider 1">
         <div class="text-box">
-            <h2 class="wow slideInRight" data-wow-duration="2s">We help businesses discover the voice behind their brand</h2>
-            <p class="wow slideInLeft" data-wow-duration="2s">One idea at a time. </p>
-            <p class="text-center">Build <span>.</span> Grow<span>.</span> Scale </p>
+            {{-- <h2 class="wow slideInRight" data-wow-duration="2s">We help businesses discover the voice behind their brand</h2> --}}
+            {{-- <p class="wow slideInLeft" data-wow-duration="2s">One idea at a time. </p> --}}
+            {{-- <p class="text-center">Build <span>.</span> Grow<span>.</span> Scale </p> --}}
         </div>
     </div>
     <div class="carousel-item">
