@@ -71,9 +71,7 @@ nav{
 }
 
 @media screen and (max-width: 768px){
-	section.banner-div{
-		margin-top:8.5vh !important;
-	}
+	
 	.modal{
 		width: 60%;
 		margin: 100px 20px;
