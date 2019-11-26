@@ -67,7 +67,9 @@ nav{
 	transition: all 0.3s ease;
 }
 @media screen and (max-width: 1024px){
-	
+	.sliderr{
+		display: none;
+	}
 }
 
 @media screen and (max-width: 768px){
@@ -227,3 +229,19 @@ h4.title{
 	background-color: #28bea8;
 	color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
