@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>@yield('title')</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    {{-- <script src="js/caroufredsel.js" type="text/javascript"></script> --}}
+    <script src="js/toggle.js" type="text/javascript"></script>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <!-- Bootstrap core CSS -->
