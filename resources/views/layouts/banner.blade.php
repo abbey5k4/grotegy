@@ -6,7 +6,7 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/gro1.jpg" alt="slider 1">
+      <img src="images/grow.jpg" alt="slider 1">
         <div class="text-box">
             {{-- <h2 class="wow slideInRight" data-wow-duration="2s">We help businesses discover the voice behind their brand</h2> --}}
             {{-- <p class="wow slideInLeft" data-wow-duration="2s">One idea at a time. </p> --}}
