@@ -26,7 +26,7 @@ h2, p{color:#fff;}
 	transform: translateY(-50%);
 }
 img{
-	height: 100% !important;
+	height: 50vh !important;
 }
 
 /* services css */
