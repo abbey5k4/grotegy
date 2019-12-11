@@ -13,6 +13,11 @@
     @include('layouts.contact')
     @include('layouts.footerr')
     <script>
+      // $(document).ready(function($){
+      //   $(".card-header").click(function(){
+      //     $(this).css({"text-decoration" : "underline"});
+      //   });
+      // });
      wow = new WOW(
       {
         animateClass: 'animated',
