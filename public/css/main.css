@@ -343,3 +343,7 @@ ul>li{
 .fas{
 	margin-right: 5px !important;
 }
+.talk{
+	margin-left: 50% !important;
+	position: absolute !important;
+}
