@@ -12,21 +12,6 @@
     @include('layouts.services')
     @include('layouts.contact')
     @include('layouts.footerr')
-    <script>
-      // $(document).ready(function($){
-      //   $(".card-header").click(function(){
-      //     $(this).css({"text-decoration" : "underline"});
-      //   });
-      // });
-     wow = new WOW(
-      {
-        animateClass: 'animated',
-        offset:       100,
-        callback:     function(box) {
-          console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
-        }
-      }
-    );
-    wow.init();
-    </script>
+  
+     
 @endsection

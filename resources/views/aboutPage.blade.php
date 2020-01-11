@@ -1,7 +1,0 @@
-<p>Grotegy is a growth, strategy, legal, compliance and business consulting firm that is defining the way African startups and businesses plan and execute their growth strategies. So Whether you’re looking to discover your brand or develop a viable growth plan underpinned by sound sales strategy, we will help your African business build, grow and scale globally faster and more efficiently than you can on your own. 
-
-        Because we are extremely customer-centered, we provide the needed insights across the African and global wave and analyse your situation to explore new ways to tap into growth while listening to the demands of a changing world and meeting them responsibly. From growth hacking, strategies and helping you find the required partnerships, we are positioned to deliver global capabilities and knowledge for start-ups and SMEs in all regions of the world. 
-        
-        Grotegy is led and coordinated by a team of professionals with a proven combined experience across Finance, Technology, E-Payments, Law, Telecommunications, Marketing, Media and international Business. We are equipped to provide you with whatever business goals that you are working towards because we have been in your shoes. We have run businesses and we understand how to implement change. 
-        
-        From efficiency to sustainability, our goal is to help you always to be clear, thoughtful, and focused on outcomes. In short, we want to make getting to results faster and easier for everyone.. one idea at a time.</p>

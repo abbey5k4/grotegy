@@ -1,120 +1,75 @@
-<section>
-  <h3 class="text-left">Services</h3>
-</section>
-<div id="accordion">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link active" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              Brand discovery
-          </button>
-        </h5>
-      </div>
-  
-      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-        <div class="card-body">
-          <p>‘’Understand your market, get organized, grow sales. From insight through execution,
-              we help you get ahead of change and close the gap between analysis and planning
-              </p>
-              <marquee style="margin-top: 10px;" width = "100%" direction="left" >
-                <ul class="text-center">
-                  <li><i class="far fa-lightbulb mr-2"></i>Idea assessment</li>
-                  <li><i class="fas fa-coins mr-2"></i>Value Proposition</li>
-                  <li><i class="fas fa-chess-pawn mr-2"></i>Brand action plan worksheet</li>
-                  <li><i class="fas fa-file-signature mr-2"></i>Naming</li>
+@section('extra-stylesheet')
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+@endsection
+ <!-- Service Section -->
+ <section class="page-section bg-primary" id="services">
+    <div class="container">
+      <h3>Everything you need <br> and more! <span style="font-weight: bold; color: green;"> Build, Grow</span> &  <span style="font-weight: bold; color: green;"> Scale.</span></h3>
+        <div class="row">
+            <div class="col-md-6 col-lg-6 col-sm-12"></div>
+            <div class="col-md-6 col-lg-6 col-sm-12">
+                <h2 ><span style="color: green; font-weight: bold;"> CRO - Branding</span></h2>
+                <p>
+                    Brand discovery - ‘Understand your market, get organized,
+                    grow sales’. <br><br>
+                    From insight through execution, we help you get ahead of
+                    change and close the gap between analysis and planning.
+                </p>
+                <ul>
+                  <li>Idea assessment</li>
+                  <li>Value Proposition</li>
+                  <li>Brand action plan worksheet</li>
+                  <li>Naming</li>
                 </ul>
-            </marquee>
-            <section class="text-center">
-                <button type="button" class="btn btn-outline-success btn-rounded waves-effect text-center" style="border-radius: 20px;" > Let's Talk</button>
-            </section>
-            
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <div class="card-header" id="headingTwo">
-        <h5 class="mb-0">
-          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Growth hacking/strategy
-          </button>
-
-        </h5>
-      </div>
-      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-        <div class="card-body">
-          <p>‘’Setting business goals without a growth plan is just a wish’’
-              Standing still is not an option. We make it easy for you to engage your target customers to generate
-              revenue and achieve your goals.
-          </p>
-          <marquee style="margin-top: 10px;" width = "100%" direction="left">
-              <ul class="text-center">
-                <li><i class="far fa-lightbulb mr-2"></i>Customer acquisition</li>
-                <li><i class="fas fa-coins mr-2"></i>Business goals</li>
-                <li><i class="fas fa-chess-pawn mr-2"></i>SWOT analysis</li>
-                <li><i class="fas fa-file-signature mr-2"></i>Activation</li>
-                <li><i class="fas fa-file-signature mr-2"></i>Product strategy</li>
-                <li><i class="fas fa-file-signature mr-2"></i>New channels</li>
-              </ul>
-          </marquee>
-          <section class="text-center">
-              <button type="button" class="btn btn-outline-success btn-rounded waves-effect text-center" style="border-radius: 20px;" > Let's Talk</button>
-          </section>
-        </div>
-      </div>
-    </div>
-    <div class="card">
-        <div class="card-header" id="headingThree">
-          <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Partnerships
-            </button>
-          </h5>
-        </div>
-        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-            <div class="card-body">
-              <p>We have the roadmap, required partnerships to navigate your survival and plot your
-                  growth trajectory.
-              </p>
-              <marquee   width = "100%"  direction="left" style="margin-top: 10px;" >
-                  <ul class="text-center">
-                    <li><i class="far fa-lightbulb mr-2"></i>Identification</li>
-                    <li><i class="fas fa-coins mr-2"></i>Market Evaluation</li>
-                    <li><i class="fas fa-chess-pawn mr-2"></i>Partner evaluation</li>
-                    <li><i class="fas fa-file-signature mr-2"></i>Closing the deal</li>
-                    </ul>
-              </marquee>
-              <section class="text-center">
-                  <button type="button" class="btn btn-outline-success btn-rounded waves-effect text-center" style="border-radius: 20px;" > Let's Talk</button>
-              </section>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid green; background-color: #fff;  margin-top: 10px;"><a href="" style="color: green; font-weight: bold;">Let's Talk</a></button>
+                
             </div>
+            <div class="col-md-6 col-lg-6 col-sm-12 mt-2">
+                <h2 ><span style="color: green; font-weight: bold;"> Growth Strategy</span></h2>
+                <p>
+                  ‘’Setting business goals without a growth plan is just a wish’’. <br><br>
+                  Standing still is not an option. We make it easy for you to
+                  engage your target customers to generate revenue and
+                  achieve your goals.
+                </p>
+                <ul>
+                  <li> Customer acquisition/Retention</li>
+                  <li>Business goals mapping</li>
+                  <li>SWOT analysis</li>
+                  <li>Activation</li>
+                  <li>Product strategy</li>
+                  <li>New channels</li>
+                </ul>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid green; background-color: #fff;  margin-top: 10px;"><a href="" style="color: green; font-weight: bold;">Let's Talk</a></button>
+            </div>   
+            <div class="col-md-6 col-lg-6 col-sm-12"></div>
+            <div class="col-md-6 col-lg-6 col-sm-12"></div>
+            <div class="col-md-6 col-lg-6 col-sm-12">
+                <h2 ><span style="color: green; font-weight: bold;">Partnership Advisory</span></h2>
+                <p>
+                We have the roadmap, required partnerships to navigate
+                your survival and plot your growth trajectory <br><br>
+                  
+                </p>
+                <ul>
+                  <li>Identification</li>
+                  <li> Market Evaluation</li>
+                  <li>Partner evaluation</li>
+                  <li> Closing the deal</li>
+                </ul>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid green; background-color: #fff;  margin-top: 10px;"><a href="" style="color: green; font-weight: bold;">Let's Talk</a></button>
+                
           </div>
-    </div>
-    <div class="card">
-        <div class="card-header" id="headingFour">
-          <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                GroLegal
-            </button>
-          </h5>
+          
+          
         </div>
+
     </div>
-        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-          <div class="card-body">
-            <p>From documentation, to legal representation, we have the required expertise in holding your
-                hands through every step.
-            </p>
-            <marquee   width = "100%" direction="left" style="margin-top: 10px;">
-                <ul class="text-center">
-                  <li><i class="far fa-lightbulb mr-2"></i>Privacy Notice</li>
-                  <li><i class="fas fa-coins mr-2"></i>Terms of service</li>
-                  <li><i class="fas fa-chess-pawn mr-2"></i>Contract</li>
-                  <li><i class="fas fa-file-signature mr-2"></i>IP related issues</li>
-                  </ul>
-            </marquee>
-            <section class="text-center">
-                <button type="button" class="btn btn-outline-success btn-rounded waves-effect text-center" style="border-radius: 20px;" > Let's Talk</button>
-            </section>
-          </div>
-        </div>
-      </div>
-  </div>
+    <div class="info text-center container-fluid" sty>   
+            <h2 class="mt-5 d-inline-block" >Build &nbsp; &nbsp; Grow &nbsp; &nbsp; Scale</h2>
+            <h4>WE ARE THE GROWTH CONSULTANT</h4>
+    </div>
+  </section>
+
+
+ 

@@ -1,36 +1,35 @@
-<section class="contact pt-100 pb-100" id="contact">
+@section('extra-stylesheet')
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+@endsection
+ <!-- About Section -->
+ <section class="page-section bg-primary" id="contact">
     <div class="container">
-       <div class="row">
-          <div class="col-xl-6 mx-auto text-center">
-             <div class="section-title mb-100">
-                <h4>Get in touch</h4>
-             </div>
-          </div>
-       </div>
-       <div class="row text-center">
-             <div class="col-md-12">
-                <form action="#" class="contact-form">
-                   <div class="row">
-                      <div class="col-xl-6">
-                         <input type="text" placeholder="name">
-                      </div>
-                      <div class="col-xl-6">
-                         <input type="text" placeholder="email">
-                      </div>
-                      <div class="col-xl-6">
-                         <input type="text" placeholder="subject">
-                      </div>
-                      <div class="col-xl-6">
-                         <input type="text" placeholder="telephone">
-                      </div>
-                      <div class="col-xl-12">
-                         <textarea placeholder="message" cols="30" rows="10"></textarea>
-                         <input type="submit" value="send message" style="background: #21d192; color: #fff;">
-                      </div>
-                   </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-6 col-sm-12">
+                <form>
+                    <div class="form-row">
+                        <div class="col form-group">
+                            <input type="text" class="form-control" placeholder="First name">
+                        </div>
+                        <div class="col form-group">
+                            <input type="text" class="form-control" placeholder="Last name">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col form-group">
+                            <input type="text" class="form-control" placeholder="Telephone">
+                        </div>
+                        <div class="col form-group">
+                            <input type="text" class="form-control" placeholder="Subject">
+                        </div>
+                    </div>
+                    <textarea name="" id="" cols="33" rows="10"></textarea>
                 </form>
-             </div>
-             
-       </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-sm-12">
+                yo mehn
+            </div>
+        </div>
+
     </div>
- </section>
+  </section>

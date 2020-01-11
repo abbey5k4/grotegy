@@ -1,120 +1,23 @@
-<!-- Footer -->
-<footer class="page-footer font-small blue-grey lighten-5">
-
-        <div style="background-color: #21d192;">
-          <div class="container">
-      
-            <!-- Grid row-->
-            <div class="row py-4 d-flex align-items-center">
-      
-              <!-- Grid column -->
-              <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
-                <h6 class="mb-0">Get connected with us on social networks!</h6>
-              </div>
-              <!-- Grid column -->
-      
-              <!-- Grid column -->
-              <div class="col-md-6 col-lg-7 text-center text-md-right">
-      
-                <!-- Facebook -->
-                <a class="fb-ic">
-                  <i class="fab fa-facebook-f white-text mr-4"> </i>
-                </a>
-                <!-- Twitter -->
-                <a class="tw-ic">
-                  <i class="fab fa-twitter white-text mr-4"> </i>
-                </a>
-                <!-- Google +-->
-                <a class="gplus-ic">
-                  <i class="fab fa-google-plus-g white-text mr-4"> </i>
-                </a>
-                <!--Linkedin -->
-                <a class="li-ic">
-                  <i class="fab fa-linkedin-in white-text mr-4"> </i>
-                </a>
-                <!--Instagram-->
-                <a class="ins-ic">
-                  <i class="fab fa-instagram white-text"> </i>
-                </a>
-      
-              </div>
-              <!-- Grid column -->
-      
-            </div>
-            <!-- Grid row-->
-      
-          </div>
+ <!-- Contact Section -->
+ <section class="page-section" id="contact">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+          <h2 class="mt-0">Let's Get In Touch!</h2>
+          <hr class="divider my-4">
+          <p class="text-muted mb-5">Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!</p>
         </div>
-      
-        <!-- Footer Links -->
-        <div class="container text-center text-md-left mt-5">
-      
-          <!-- Grid row -->
-          <div class="row mt-3 dark-grey-text">
-      
-            <!-- Grid column -->
-            <div class="col-md-4 col-lg-4 col-xl-3 mb-4">
-      
-              <!-- Content -->
-              <h6 class="text-uppercase font-weight-bold">GROTEGY</h6>
-              <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-              <p  style="color: #000;">
-                    We help businesses discover the voice behind their brand. One idea at a time
-              </p>
-              <p class="black-text text-center">Build <span>.</span> Grow<span>.</span> Scale </p>
-      
-            </div>
-            <!-- Grid column -->
-      
-      
-            <!-- Grid column -->
-            <div class="col-md-4 col-lg-2 col-xl-2 mx-auto mb-4">
-      
-              <!-- Links -->
-              <h6 class="text-uppercase font-weight-bold">Useful links</h6>
-              <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-              <p>
-                <a class="dark-grey-text" href="#!">About Us</a>
-              </p>
-              <p>
-                <a class="dark-grey-text" href="#!">Portfolio</a>
-              </p>
-              <p>
-                <a class="dark-grey-text" href="#!">Blog</a>
-              </p>
-      
-            </div>
-            <!-- Grid column -->
-      
-            <!-- Grid column -->
-            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="color: #000;">
-      
-              <!-- Links -->
-              <h6 class="text-uppercase font-weight-bold">Contact</h6>
-              <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-              <p  style="color: #000;">
-                <i class="fas fa-home mr-3"  style="color: #000;"></i> New York, NY 10012, US</p>
-              <p  style="color: #000;">
-                <i class="fas fa-envelope mr-3"></i>curator@grotegy.com</p>
-              <p  style="color: #000;">
-                <i class="fas fa-phone mr-3"></i> +1 (202) 594-1509</p>
-              <p  style="color: #000;">
-                <i class="fas fa-phone mr-3"></i> +234 808 208 6618</p>
-      
-            </div>
-            <!-- Grid column -->
-      
-          </div>
-          <!-- Grid row -->
-      
+      </div>
+      <div class="row">
+        <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+          <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
+          <div>+1 (202) 555-0149</div>
         </div>
-        <!-- Footer Links -->
-      
-        <!-- Copyright -->
-        <div class="footer-copyright text-center text-black-50 py-3">© 2019 &nbsp; &nbsp; &nbsp;
-          <a class="white-text ">GroTegy Ltd. All rights reserved</a>
+        <div class="col-lg-4 mr-auto text-center">
+          <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
+          <!-- Make sure to change the email address in anchor text AND the link below! -->
+          <a class="d-block" href="mailto:contact@yourwebsite.com">contact@grotegy.com</a>
         </div>
-        <!-- Copyright -->
-      
-      </footer>
-      <!-- Footer -->
+      </div>
+    </div>
+  </section>
