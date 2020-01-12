@@ -10,6 +10,7 @@
     @include('layouts.banner')
     @include('layouts.about')
     @include('layouts.services')
+    @include('layouts.pf')
     @include('layouts.contact')
     @include('layouts.footerr')
   

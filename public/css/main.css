@@ -4,12 +4,20 @@
     height: 200px;
 }
 ul li{
-    
+    list-style-type: none;
 }
 .form-control{
     height: 3rem;
-    border-radius: 25px 25px 25px 0;
+    /* border-radius: 25px 25px 25px 0; */
 }
-textarea{
-    border-radius: 25px 25px 25px 0;
+textarea:focus{
+    /* border-radius: 25px 25px 25px 0; */
+    border: 1px solid green;
+}
+.contactUs{
+    background-image: url("../img/gro/ContactUs.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+     
 }
