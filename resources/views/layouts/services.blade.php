@@ -48,7 +48,7 @@
               <img src="img/gro/GrowthStrategy.svg" alt="Grotegy Growth Strategy" style="width: 100% ;">
             </div>
             <div class="col-md-6 col-lg-6 col-sm-12 mb-4">
-              <img src="img/gro/partnership.png" alt="Grotegy Partnership Advisory" style="width: 100%;">
+              <img src="img/gro/GrowthStrategy.svg" alt="Grotegy Partnership Advisory" style="width: 100%;">
             </div>
             <div class="col-md-6 col-lg-6 col-sm-12 mb-4">
                 <h2 ><span style="color: #64b387; font-weight: bold;">Partnership Advisory</span></h2>
