@@ -47,10 +47,10 @@
             <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
               <img src="img/gro/GrowthStrategy.svg" alt="Grotegy Growth Strategy" style="width: 100% ;">
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
-              <img src="img/gro/partnership.svg" alt="Grotegy Partnership Advisory" style="width: 100%;">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-4">
+              <img src="img/gro/partnership.png" alt="Grotegy Partnership Advisory" style="width: 100%;">
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-4">
                 <h2 ><span style="color: #64b387; font-weight: bold;">Partnership Advisory</span></h2>
                 <p>
                 We have the roadmap, required partnerships to navigate
