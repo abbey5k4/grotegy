@@ -22,7 +22,7 @@
                     we have you covered. We help businesses discover the
                     voice behind their brand… One idea at a time.
                 </p>
-                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387;">Read More</a></button>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 3rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387;">Read More</a></button>
                 
             </div>
         </div>

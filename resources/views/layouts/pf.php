@@ -1,6 +1,11 @@
 <!-- Portfolio Section -->
 <section id="portfolio">
-    <div class="container-fluid p-0">
+    <section class="container mb-2">
+      <h2 style="color: #64b387; font-weight:bolder;">Our Portfolio</h2>
+      <p class="mb-3">Here's some of our works</p>
+    </section>
+    <div class="container-fluid p-0 mt-2">
+    
       <div class="row no-gutters">
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">

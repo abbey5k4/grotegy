@@ -1,7 +1,8 @@
 .info{
-    background-color: green;
+    background-image: url('../img/gro/CTA.png');
     color: #fff;
-    height: 200px;
+    height: 225px;
+    background-size: cover;
 }
 ul li{
     list-style-type: none;

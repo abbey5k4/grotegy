@@ -3,6 +3,10 @@
 @endsection
  <!-- About Section -->
  <section class="page-section bg-primary" id="contact">
+     <section class="container mb-2">
+        <h2 style="color: #64b387; font-weight:bolder;">Let's Guide you to Success &amp; Growth</h2>
+        <p class="mb-3">Kindly fill out the form below to get in touch with us.</p>
+    </section>
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-6 col-sm-12">
@@ -28,7 +32,7 @@
             </div>
             <div class="col-md-6 col-lg-6 col-sm-12 contactUs">
                 <div class="">
-                    <p  class="">fffffffffk kksk</p>
+                    <p  class=""></p>
                 </div>
                  
                      

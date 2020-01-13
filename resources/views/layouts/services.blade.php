@@ -6,11 +6,11 @@
     <div class="container">
       <h3>Everything you need <br> and more! <span style="font-weight: bold; color: #64b387;"> Build, Grow</span> &amp;  <span style="font-weight: bold; color: #64b387;"> Scale</span>.</h3>
         <div class="row">
-            <div class="col-md-6 col-lg-6 col-sm-12">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
               <img src="img/gro/BrandDiscovery.svg" alt="Grotegy Brand Discovery" style="width: 100%;">
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12">
-                <h2 ><span style="color: #64b387; font-weight: bold;"> CRO - Branding</span></h2>
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
+                <h2 ><span style="color: #64b387; font-weight: bold;"> Brand Discovery</span></h2>
                 <p>
                     Brand discovery - ‘Understand your market, get organized,
                     grow sales’. <br><br>
@@ -23,10 +23,10 @@
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Brand action plan worksheet</li>
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Naming</li>
                 </ul>
-                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 3rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
                 
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12 mt-2">
+            <div class="col-md-6 col-lg-6 col-sm-12 mt-2 mb-3">
                 <h2 ><span style="color: #64b387; font-weight: bold;"> Growth Strategy</span></h2>
                 <p>
                   ‘’Setting business goals without a growth plan is just a wish’’. <br><br>
@@ -42,15 +42,15 @@
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Product strategy</li>
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>New channels</li>
                 </ul>
-                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 3rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
             </div>   
-            <div class="col-md-6 col-lg-6 col-sm-12">
-              <img src="img/gro/GrowthStrategy.svg" alt="Grotegy Growth Strategy" style="width: 100%;">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
+              <img src="img/gro/GrowthStrategy.svg" alt="Grotegy Growth Strategy" style="width: 100% ;">
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
               <img src="img/gro/partnership.svg" alt="Grotegy Partnership Advisory" style="width: 100%;">
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12">
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
                 <h2 ><span style="color: #64b387; font-weight: bold;">Partnership Advisory</span></h2>
                 <p>
                 We have the roadmap, required partnerships to navigate
@@ -63,10 +63,31 @@
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Partner evaluation</li>
                   <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span> Closing the deal</li>
                 </ul>
-                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 5rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 3rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
                 
           </div>
           
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
+                <h2 ><span style="color: #64b387; font-weight: bold;"> GroLegal</span></h2>
+                <p>
+                   Every serious business needs a lawyer. <br><br>
+                    Let's help you avoid the legal hiccups and make your business better prepared to be successful and profitable in the long term.
+                </p>
+                <ul>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Privacy Notice</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Terms of Service</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Agreement</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Investment readiness and due diligence</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Venture capital</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Employment Law</li>
+                  <li><span style="font-weight: bolder; font-size: 20px; margin-right: 5px;">+</span>Venture capital and equity financing</li>
+                </ul>
+                <button class="btn btn-success readMore mb-5" style="width: 10rem; height: 3rem; border-radius: 25px 25px 25px 0; border: 1px solid #64b387; background-color: #fff;  margin-top: 10px;"><a href="" style="color: #64b387; font-weight: bold;">Let's Talk</a></button>
+                
+            </div>
+            <div class="col-md-6 col-lg-6 col-sm-12 mb-3">
+              <img src="img/gro/Grolegal.svg" alt="Grotegy GroLegal Service" style="width: 100%;">
+            </div>
           
         </div>
 
